@@ -22,20 +22,21 @@ For this project to achieve the success we aimed to reduce as much human error a
 
 **Data Analysis and Investment Insights:**
 
-This project is meticulously designed to offer indispensable insights for investors navigating the dynamic landscape of the entertainment sector. It addresses pivotal questions that are paramount for strategic decision-making in the realm of entertainment investments. The key inquiries encompass:
-1. Choosing Between TV Shows and Movies:
-   - Uncover the comparative financial viability of financing TV shows versus movies. Gain clarity on the more lucrative investment avenue.
-2. Optimal Movie Production Countries:
-   - Identify the top three countries presenting the most promising investment opportunities for movie production. Delve into geographical insights to inform strategic investment decisions.
-3. Profitable Genre Investment:
-   - Ascertain the most profitable genre for investment within the entertainment industry. Navigate the diverse landscape of genres to maximize returns on investment.
-4. Monthly Release Dynamics:
-   - Pinpoint the month with the highest release rate in the year. Understand the temporal dynamics of content release to optimize investment timing.
-These critical inquiries serve as the foundation for informed decision-making in the entertainment sector. Through comprehensive data visualizations derived from thorough dataset analysis, this project illuminates the path for investors seeking strategic and lucrative opportunities in the ever-evolving world of entertainment.
-#netflix #datavisualization #netflixdata
+This project was provided an indispensable insights for our clients navigating the food sector. It addresses pivotal questions that are paramount for strategic decision-making in the realm of Food manufacturing. The key inquiries encompass:
+1. Key Insight report:
+   - During the course of this project period what key insights did i uncover with regards to their market representation and their overall product performance .
+2. Sales Performance report:
+   - How fast did their product move in the outlets selected for the analyses
+   - How much sales was made during that period
+   - Their top sellers and bottom sellers 
+3. SOS and OSA report:
+   - At what capacity was their product represented, are they struggling with visiblity from shoppers or they are excelling.
+4. Competitions report:
+   - How and what are their competitors doing, are they surpassing us in representation, if that is the case in what way?
+   - Are they undergoing promotion to increase sales or not
+These critical inquiries serve as the foundation for informed decision-making in the food sector. With the comprehensive Newsletter created with looker derived from thorough dataset analysis, this project illuminates the path for our clients seeking strategic and lucrative opportunities in the ever-evolving world of food manufacturing.
 
-
-[See Here](https://lookerstudio.google.com/reporting/02499443-fb71-46b0-bc5f-89651428d3fe)
+[See Here](https://lookerstudio.google.com/reporting/781a8d5c-b306-437e-874d-002d16195b93)
 
  
 
