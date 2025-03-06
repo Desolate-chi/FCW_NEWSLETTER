@@ -2,7 +2,7 @@
 
 **Introduction**
 
-FCW WAMCO, a company renowned for its production of household food products such as Peak Milk and Three Crown, faced a significant challenge. They needed a way to track the daily performance of their product representation across over 200 outlets in 10 regions. To address this, they sought the expertise of a data analyst to not only gather the necessary data but also visualize it effectively.
+FCW WAMCO, a company renowned for its production of household food products such as Peak Milk and Three Crown, faced a significant challenge. They needed a way to track the daily performance of their product representation across over 100+ outlets in 10 regions. To address this, they sought the expertise of a data analyst to not only gather the necessary data but also visualize it effectively.
 
 **Data Preparation:**
 
