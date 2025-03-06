@@ -1,42 +1,37 @@
-# FCW_NEWSLETTER
+# FCW NEWSLETTER
 
 **Introduction**
 
-FCW wamco a company known for their production in houshold eating product like Peak Milk and Three Crown. They had a challenge, they wanted to see how they can track their daily product representation performance in over 200 outlets in 10 regions and to do this they required the help of a data analyst to not only gather the data but also visualise it
+FCW WAMCO, a company renowned for its production of household food products such as Peak Milk and Three Crown, faced a significant challenge. They needed a way to track the daily performance of their product representation across over 200 outlets in 10 regions. To address this, they sought the expertise of a data analyst to not only gather the necessary data but also visualize it effectively.
 
 **Data Preparation:**
 
-To first be able to gather the data a form was required, kobotool box which is an e-form generating webapp was used, this was a form to put together all the data needed for this project also a training program was held to teach the staffs on the field on how to navigate the form, this way we can begin the starting phase of the project with ease.
- 
-
+To begin the data collection process, a form was essential. KoboToolbox, an e-form generating web application, was utilized to create a comprehensive form that captured all the required data. Additionally, a training program was conducted to educate field staff on how to navigate and use the form efficiently. This ensured a smooth start to the project.
 
 **Data Processing:**
 
-For this project to achieve the success we aimed to reduce as much human error as possible which was why after the data preparation was handle with dedication we still went into the data using MICROSOFT EXCEL for the cleaning of the data to ensure we bring human error to a minimum. Our focus involved
+To minimize human error and ensure data accuracy, the collected data was meticulously cleaned using Microsoft Excel. The focus was on identifying and addressing:
+   - Outliers in the recorded figures
+   - Cells with error messages due to incorrect data entry
 
-   - Outliers in figures recorded 
-   - Cells with error message due to incorrect data entry 
-   
-1. Outliers which were identified as entries they surpassed the average record in a perticular outlet, when identified the average of the recording will be used as a replacement.
-2. Error message cell. This occurance came during the data transformation phase when certain calculations needed to be made to achieve our desired goal, during this phase when error message were discovered the cells we eliminated from the dataset
+1. **Outliers**: These were identified as entries that significantly deviated from the average records for a particular outlet. When detected, the average value was used as a replacement to maintain data integrity.
+2. **Error Message Cells**: During the data transformation phase, certain calculations were necessary to achieve the desired outcomes. Cells containing error messages were identified and eliminated from the dataset to ensure accuracy.
 
 **Data Analysis and Investment Insights:**
 
-This project was provided an indispensable insights for our clients navigating the food sector. It addresses pivotal questions that are paramount for strategic decision-making in the realm of Food manufacturing. The key inquiries encompass:
-1. Key Insight report:
-   - During the course of this project period what key insights did i uncover with regards to their market representation and their overall product performance .
-2. Sales Performance report:
-   - How fast did their product move in the outlets selected for the analyses
-   - How much sales was made during that period
-   - Their top sellers and bottom sellers 
-3. SOS and OSA report:
-   - At what capacity was their product represented, are they struggling with visiblity from shoppers or they are excelling.
-4. Competitions report:
-   - How and what are their competitors doing, are they surpassing us in representation, if that is the case in what way?
-   - Are they undergoing promotion to increase sales or not
-These critical inquiries serve as the foundation for informed decision-making in the food sector. With the comprehensive Newsletter created with looker derived from thorough dataset analysis, this project illuminates the path for our clients seeking strategic and lucrative opportunities in the ever-evolving world of food manufacturing.
+This project provided invaluable insights for our clients in the food sector, addressing critical questions essential for strategic decision-making in food manufacturing. The key inquiries included:
+1. **Key Insight Report**:
+   - What key insights were uncovered regarding market representation and overall product performance during the project period?
+2. **Sales Performance Report**:
+   - How quickly did their products move in the selected outlets?
+   - What was the total sales volume during the analysis period?
+   - Which products were the top sellers and which were the bottom sellers?
+3. **SOS (Share of Shelf) and OSA (On-Shelf Availability) Report**:
+   - What was the capacity of their product representation? Were they struggling with visibility or excelling in it?
+4. **Competition Report**:
+   - How were their competitors performing? Were they surpassing FCW in product representation, and if so, in what ways?
+   - Were competitors running promotions to boost sales?
 
-[See Here](https://lookerstudio.google.com/reporting/781a8d5c-b306-437e-874d-002d16195b93)
+These critical inquiries form the foundation for informed decision-making in the food sector. Through a comprehensive newsletter created with Looker, derived from thorough dataset analysis, this project illuminates the path for our clients seeking strategic and lucrative opportunities in the ever-evolving world of food manufacturing.
 
- 
-
+[See Newsletter Here](https://lookerstudio.google.com/reporting/781a8d5c-b306-437e-874d-002d16195b93)
